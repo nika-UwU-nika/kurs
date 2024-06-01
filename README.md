@@ -1,4 +1,4 @@
-# Project2
+# Pink Bird!
 
 ![image](https://github.com/nika-UwU-nika/kurs/assets/70604794/21db5c4b-95f8-4193-ad05-206e7eb7d83c)
 
